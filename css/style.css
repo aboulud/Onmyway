@@ -1,0 +1,34 @@
+/*=====font import======*/
+
+/* ******FONTS********/
+
+body {background: yellow;}
+
+#screen {
+	border: 1px solid black;
+	background: url('../images/satinweave.png') repeat; 
+	height:315px;
+	width:800px;
+	text-align: center;
+	float: center;
+	}
+
+#phone {
+	border: 1px solid black;
+	box-shadow: 0 0 2px 2px;
+	height: 30px;
+	width: 300px;
+	text-align: center;
+	float: center;
+	margin: auto;
+	vertical-align: center; 
+	}
+
+#submit {
+	border: 1px solid black;
+	background-color: red;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 66%;
+	margin-right: 20%;
+}
